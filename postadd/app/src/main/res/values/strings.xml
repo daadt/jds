@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">postadd</string>
+    <string name="unknow_error">未知错误</string>
+    <string name="conn_error">连接失败</string>
+    <string name="conn_timeout">连接超时</string>
+    <string name="net_error">网络错误</string>
+    <string name="parse_error">解析异常</string>
+    <string name="net_unused">当前网络不可用</string>
+    <string name="what_pic_is">这是什么图片?</string>
+    <string name="skip">跳过</string>
+    <string name="find">找到</string>
+    <string name="right">答对了</string>
+    <string name="wrong">答错了</string>
+    <string name="match_pic">匹配图片</string>
+</resources>
